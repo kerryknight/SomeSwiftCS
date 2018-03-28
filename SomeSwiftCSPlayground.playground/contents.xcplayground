@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='HR_2dArrayWithHourglass'/>
+        <page name='HR_StatMeanMedianMode'/>
+        <page name='HR_WeightedMean'/>
+        <page name='HR_RotateArray'/>
+        <page name='Custom Operator Overload'/>
+        <page name='RW_Stack'/>
+        <page name='RW_Queue'/>
+        <page name='RW_HeapWithPriorityQueue'/>
+        <page name='RW_HeapWithRunningMedian'/>
+        <page name='RW_Deque'/>
+        <page name='RW_HashTable'/>
+        <page name='RW_InsertionSort'/>
+        <page name='RW_BinarySearch'/>
+        <page name='RW_BinarySearchTree'/>
+        <page name='RW_LinkedList'/>
+        <page name='HR_MakeAnagrams'/>
+        <page name='HR_MakeRansomNote'/>
+        <page name='HR_MatchingParentheses'/>
+        <page name='HR_QueueWithStacks'/>
+        <page name='RW_Trie'/>
+        <page name='LI_RecursiveFactorial'/>
+        <page name='RW_MergeSort'/>
+        <page name='RW_QuickSort'/>
+    </pages>
+</playground>
