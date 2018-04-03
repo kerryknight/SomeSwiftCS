@@ -18,7 +18,7 @@ func findMaxSlidingWindow(array: [Int], windowSize: Int) {
     var window = [Int]()
 
     // find out max for first window
-    for i in 0 ..< windowSize {
+    for i in 0..<windowSize {
         while !window.isEmpty && array[i] >= array[window[window.count - 1]] {
             window.removeLast()
         }
@@ -28,7 +28,7 @@ func findMaxSlidingWindow(array: [Int], windowSize: Int) {
     
     print("Max: \(array[window[0]])")
     
-    for i in windowSize ..< array.count {
+    for i in windowSize..<array.count {
         // remove all numbers that are smaller than
         // current number from the tail of array
         while window.count > 0 && array[i] >= array[window[window.count-1]] {

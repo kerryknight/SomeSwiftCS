@@ -25,5 +25,6 @@
         <page name='RW_MergeSort'/>
         <page name='RW_QuickSort'/>
         <page name='MaximumValueInSlidingWindow'/>
+        <page name='SearchInRotatedArray'/>
     </pages>
 </playground>
