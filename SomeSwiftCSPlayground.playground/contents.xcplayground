@@ -24,5 +24,6 @@
         <page name='LI_RecursiveFactorial'/>
         <page name='RW_MergeSort'/>
         <page name='RW_QuickSort'/>
+        <page name='MaximumValueInSlidingWindow'/>
     </pages>
 </playground>

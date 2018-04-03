@@ -2,7 +2,6 @@
 
 import Foundation
 
-//let string: String = readLine()!
 let string = "{{{{{{{{"
 let array = Array(string)
 var stack = [String]()
