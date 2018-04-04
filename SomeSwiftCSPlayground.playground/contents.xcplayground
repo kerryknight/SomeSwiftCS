@@ -26,5 +26,6 @@
         <page name='RW_QuickSort'/>
         <page name='MaximumValueInSlidingWindow'/>
         <page name='SearchInRotatedArray'/>
+        <page name='FindSmallestCommonNumber'/>
     </pages>
 </playground>
